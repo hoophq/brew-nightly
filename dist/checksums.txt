@@ -1,0 +1,12 @@
+4ec75c9c8664adf4ea3e5cfb6873ec31df158d6bda4e93e8373c7894e173aa4d  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Linux_arm64.tar.gz
+f6c7ea339e1cc73041cb98bf8b4de3bf7086495094953a4fc72fbf8ba8cd0ae9  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Windows_amd64.tar.gz
+3fa8d1478d36ff452445ed5ca7b497f392495a11dbeb27a40a790403eb966c9c  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Linux_x86_64.tar.gz
+38c4ef7c5a0de1262c959c60c1a791c445cf824cf2d3f8236637d1861b775283  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Windows_arm64.tar.gz
+61388ced06abeeb64aee5afa0539b594c30fefde9faf06b383eab867cf3a35f0  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Darwin_arm64.tar.gz
+2be416ee772efab3c609417264a20d7c4fa138dc82c4e33f421a9f5aff5d9158  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Darwin_x86_64.tar.gz
+61388ced06abeeb64aee5afa0539b594c30fefde9faf06b383eab867cf3a35f0  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Darwin_aarch64.tar.gz
+f6c7ea339e1cc73041cb98bf8b4de3bf7086495094953a4fc72fbf8ba8cd0ae9  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Windows_x86_64.tar.gz
+3fa8d1478d36ff452445ed5ca7b497f392495a11dbeb27a40a790403eb966c9c  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Linux_amd64.tar.gz
+2be416ee772efab3c609417264a20d7c4fa138dc82c4e33f421a9f5aff5d9158  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Darwin_amd64.tar.gz
+4ec75c9c8664adf4ea3e5cfb6873ec31df158d6bda4e93e8373c7894e173aa4d  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Linux_aarch64.tar.gz
+38c4ef7c5a0de1262c959c60c1a791c445cf824cf2d3f8236637d1861b775283  ./dist/binaries/hoop_0.0.0-nightly-030dab8_Windows_aarch64.tar.gz
