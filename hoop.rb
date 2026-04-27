@@ -5,20 +5,20 @@
 class Hoop < Formula
   desc "Hoop allows acessing any infra-structure resource easily and secure."
   homepage "https://github.com/hoophq/hoop"
-  version "0.0.0-nightly-22b4adf"
+  version "0.0.0-nightly-1bf8cd4"
 
   on_macos do
     if Hardware::CPU.intel?
-      url "https://releases.hoop.dev/release/0.0.0-nightly-22b4adf/hoop_0.0.0-nightly-22b4adf_Darwin_amd64.tar.gz"
-      sha256 "cd1fbda6ac7250bd0ffc341dfd3a3da12ddc86ab60343ec5faa3dda52f6dbc7c"
+      url "https://releases.hoop.dev/release/0.0.0-nightly-1bf8cd4/hoop_0.0.0-nightly-1bf8cd4_Darwin_amd64.tar.gz"
+      sha256 "aefbc55b2e1382a2952252908206f5e78f4f818507b8a578fe69ff36b557299b"
 
       def install
         bin.install "hoop"
       end
     end
     if Hardware::CPU.arm?
-      url "https://releases.hoop.dev/release/0.0.0-nightly-22b4adf/hoop_0.0.0-nightly-22b4adf_Darwin_arm64.tar.gz"
-      sha256 "298b377469acfdbd5c870fcc30813ff3e2f2cf403f984bcb404002eff0c3df2d"
+      url "https://releases.hoop.dev/release/0.0.0-nightly-1bf8cd4/hoop_0.0.0-nightly-1bf8cd4_Darwin_arm64.tar.gz"
+      sha256 "ee8391926248c0fb8be569fb4d560db30d352fc06e8d651146277111d8628c0c"
 
       def install
         bin.install "hoop"
@@ -28,16 +28,16 @@ class Hoop < Formula
 
   on_linux do
     if Hardware::CPU.arm? && Hardware::CPU.is_64_bit?
-      url "https://releases.hoop.dev/release/0.0.0-nightly-22b4adf/hoop_0.0.0-nightly-22b4adf_Linux_arm64.tar.gz"
-      sha256 "ebb1b599e5d893a68ef9d68d49d86f658e4b763fc1b6e81ee89c5df1ac235224"
+      url "https://releases.hoop.dev/release/0.0.0-nightly-1bf8cd4/hoop_0.0.0-nightly-1bf8cd4_Linux_arm64.tar.gz"
+      sha256 "ae7c18b9c2a6e66c36acd6a29fdf22cde30d1b8e3082dc867c94988a26d996d6"
 
       def install
         bin.install "hoop"
       end
     end
     if Hardware::CPU.intel?
-      url "https://releases.hoop.dev/release/0.0.0-nightly-22b4adf/hoop_0.0.0-nightly-22b4adf_Linux_amd64.tar.gz"
-      sha256 "23b2550c661f95bd00ee123c443deefa4627ebc234930c59c799e79289489ec1"
+      url "https://releases.hoop.dev/release/0.0.0-nightly-1bf8cd4/hoop_0.0.0-nightly-1bf8cd4_Linux_amd64.tar.gz"
+      sha256 "d0c884670f2dc64484130babd041d92f4ab3db28d3a49df692a18944aa94f430"
 
       def install
         bin.install "hoop"
